@@ -40,9 +40,10 @@ We work with a diverse set of technologies to ensure the best fit for your busin
 
 ## 📫 Get in Touch
 
-💼 **Website:** [Your Website]  
-📧 **Email:** [Your Contact Email]  
-🔗 **LinkedIn:** [Your LinkedIn]  
-📂 **GitHub:** [Your GitHub Organization]  
+💼 **Website:** nextgenit.co.mz
+
+📧 **Email:** hello@nextgenit.co.mz  
+
+🔗 **LinkedIn:** [NextGen IT](https://linkedin.com/company/nextgen-it-mz)   
 
 💡 _Let's build something amazing together!_ 🚀
